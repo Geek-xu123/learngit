@@ -4,3 +4,4 @@ Today is the first day to learn Git reposity
 Git is a distributed version control system.
 Git is  free software distributed under the GPL.
 Add a line 
+My stupid boss still prefer SVN
